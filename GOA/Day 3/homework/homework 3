@@ -1,0 +1,20 @@
+from turtle import *
+forward20
+right90
+forward20
+right90
+forward20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
